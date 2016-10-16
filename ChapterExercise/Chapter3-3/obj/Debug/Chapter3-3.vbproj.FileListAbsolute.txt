@@ -1,0 +1,9 @@
+C:\Users\Hope\OneDrive\Github\vb\ChapterExercise\Chapter3-3\bin\Debug\Chapter3-3.exe.config
+C:\Users\Hope\OneDrive\Github\vb\ChapterExercise\Chapter3-3\obj\Debug\Chapter3_3.Resources.resources
+C:\Users\Hope\OneDrive\Github\vb\ChapterExercise\Chapter3-3\obj\Debug\Chapter3-3.vbproj.GenerateResource.Cache
+C:\Users\Hope\OneDrive\Github\vb\ChapterExercise\Chapter3-3\bin\Debug\Chapter3-3.exe
+C:\Users\Hope\OneDrive\Github\vb\ChapterExercise\Chapter3-3\bin\Debug\Chapter3-3.pdb
+C:\Users\Hope\OneDrive\Github\vb\ChapterExercise\Chapter3-3\bin\Debug\Chapter3-3.xml
+C:\Users\Hope\OneDrive\Github\vb\ChapterExercise\Chapter3-3\obj\Debug\Chapter3-3.exe
+C:\Users\Hope\OneDrive\Github\vb\ChapterExercise\Chapter3-3\obj\Debug\Chapter3-3.xml
+C:\Users\Hope\OneDrive\Github\vb\ChapterExercise\Chapter3-3\obj\Debug\Chapter3-3.pdb

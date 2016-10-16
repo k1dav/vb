@@ -1,0 +1,10 @@
+C:\Users\Hope\OneDrive\Github\vb\ChapterExercise\Chapter3-4\bin\Debug\Chapter3-4.exe.config
+C:\Users\Hope\OneDrive\Github\vb\ChapterExercise\Chapter3-4\bin\Debug\Chapter3-4.exe
+C:\Users\Hope\OneDrive\Github\vb\ChapterExercise\Chapter3-4\bin\Debug\Chapter3-4.pdb
+C:\Users\Hope\OneDrive\Github\vb\ChapterExercise\Chapter3-4\bin\Debug\Chapter3-4.xml
+C:\Users\Hope\OneDrive\Github\vb\ChapterExercise\Chapter3-4\obj\Debug\Chapter3-4.vbprojResolveAssemblyReference.cache
+C:\Users\Hope\OneDrive\Github\vb\ChapterExercise\Chapter3-4\obj\Debug\Chapter3_4.Resources.resources
+C:\Users\Hope\OneDrive\Github\vb\ChapterExercise\Chapter3-4\obj\Debug\Chapter3-4.vbproj.GenerateResource.Cache
+C:\Users\Hope\OneDrive\Github\vb\ChapterExercise\Chapter3-4\obj\Debug\Chapter3-4.exe
+C:\Users\Hope\OneDrive\Github\vb\ChapterExercise\Chapter3-4\obj\Debug\Chapter3-4.xml
+C:\Users\Hope\OneDrive\Github\vb\ChapterExercise\Chapter3-4\obj\Debug\Chapter3-4.pdb

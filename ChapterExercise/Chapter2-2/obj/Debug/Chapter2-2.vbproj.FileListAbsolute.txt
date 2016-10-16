@@ -1,0 +1,9 @@
+C:\Users\Hope\OneDrive\Github\vb\Chapter2\Chapter2-2\bin\Debug\Chapter2-2.exe.config
+C:\Users\Hope\OneDrive\Github\vb\Chapter2\Chapter2-2\bin\Debug\Chapter2-2.exe
+C:\Users\Hope\OneDrive\Github\vb\Chapter2\Chapter2-2\bin\Debug\Chapter2-2.pdb
+C:\Users\Hope\OneDrive\Github\vb\Chapter2\Chapter2-2\bin\Debug\Chapter2-2.xml
+C:\Users\Hope\OneDrive\Github\vb\Chapter2\Chapter2-2\obj\Debug\Chapter2_2.Resources.resources
+C:\Users\Hope\OneDrive\Github\vb\Chapter2\Chapter2-2\obj\Debug\Chapter2-2.vbproj.GenerateResource.Cache
+C:\Users\Hope\OneDrive\Github\vb\Chapter2\Chapter2-2\obj\Debug\Chapter2-2.exe
+C:\Users\Hope\OneDrive\Github\vb\Chapter2\Chapter2-2\obj\Debug\Chapter2-2.xml
+C:\Users\Hope\OneDrive\Github\vb\Chapter2\Chapter2-2\obj\Debug\Chapter2-2.pdb

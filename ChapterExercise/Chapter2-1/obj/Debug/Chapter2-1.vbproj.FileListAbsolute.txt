@@ -1,0 +1,10 @@
+C:\Users\Hope\OneDrive\Github\vb\Chapter2\Chapter2-1\bin\Debug\Chapter2-1.exe.config
+C:\Users\Hope\OneDrive\Github\vb\Chapter2\Chapter2-1\bin\Debug\Chapter2-1.exe
+C:\Users\Hope\OneDrive\Github\vb\Chapter2\Chapter2-1\bin\Debug\Chapter2-1.pdb
+C:\Users\Hope\OneDrive\Github\vb\Chapter2\Chapter2-1\bin\Debug\Chapter2-1.xml
+C:\Users\Hope\OneDrive\Github\vb\Chapter2\Chapter2-1\obj\Debug\Chapter2-1.vbprojResolveAssemblyReference.cache
+C:\Users\Hope\OneDrive\Github\vb\Chapter2\Chapter2-1\obj\Debug\Chapter2_1.Resources.resources
+C:\Users\Hope\OneDrive\Github\vb\Chapter2\Chapter2-1\obj\Debug\Chapter2-1.vbproj.GenerateResource.Cache
+C:\Users\Hope\OneDrive\Github\vb\Chapter2\Chapter2-1\obj\Debug\Chapter2-1.exe
+C:\Users\Hope\OneDrive\Github\vb\Chapter2\Chapter2-1\obj\Debug\Chapter2-1.xml
+C:\Users\Hope\OneDrive\Github\vb\Chapter2\Chapter2-1\obj\Debug\Chapter2-1.pdb
