@@ -1,0 +1,10 @@
+C:\Users\Hope\OneDrive\Github\vb\2016VBHw1\VB-HW1-3\bin\Debug\VB-HW1-3.exe.config
+C:\Users\Hope\OneDrive\Github\vb\2016VBHw1\VB-HW1-3\bin\Debug\VB-HW1-3.exe
+C:\Users\Hope\OneDrive\Github\vb\2016VBHw1\VB-HW1-3\bin\Debug\VB-HW1-3.pdb
+C:\Users\Hope\OneDrive\Github\vb\2016VBHw1\VB-HW1-3\bin\Debug\VB-HW1-3.xml
+C:\Users\Hope\OneDrive\Github\vb\2016VBHw1\VB-HW1-3\obj\Debug\VB-HW1-3.vbprojResolveAssemblyReference.cache
+C:\Users\Hope\OneDrive\Github\vb\2016VBHw1\VB-HW1-3\obj\Debug\VB_HW1_3.Resources.resources
+C:\Users\Hope\OneDrive\Github\vb\2016VBHw1\VB-HW1-3\obj\Debug\VB-HW1-3.vbproj.GenerateResource.Cache
+C:\Users\Hope\OneDrive\Github\vb\2016VBHw1\VB-HW1-3\obj\Debug\VB-HW1-3.exe
+C:\Users\Hope\OneDrive\Github\vb\2016VBHw1\VB-HW1-3\obj\Debug\VB-HW1-3.xml
+C:\Users\Hope\OneDrive\Github\vb\2016VBHw1\VB-HW1-3\obj\Debug\VB-HW1-3.pdb
