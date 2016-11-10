@@ -1,0 +1,14 @@
+c:\users\hope\documents\visual studio 2015\Projects\HW2-B10409020-宋豐价\Hw1\bin\Debug\Hw1.exe.config
+c:\users\hope\documents\visual studio 2015\Projects\HW2-B10409020-宋豐价\Hw1\bin\Debug\Hw1.exe
+c:\users\hope\documents\visual studio 2015\Projects\HW2-B10409020-宋豐价\Hw1\bin\Debug\Hw1.pdb
+c:\users\hope\documents\visual studio 2015\Projects\HW2-B10409020-宋豐价\Hw1\bin\Debug\Hw1.xml
+c:\users\hope\documents\visual studio 2015\Projects\HW2-B10409020-宋豐价\Hw1\obj\Debug\Hw1.vbprojResolveAssemblyReference.cache
+c:\users\hope\documents\visual studio 2015\Projects\HW2-B10409020-宋豐价\Hw1\obj\Debug\Hw1.Resources.resources
+c:\users\hope\documents\visual studio 2015\Projects\HW2-B10409020-宋豐价\Hw1\obj\Debug\Hw1.vbproj.GenerateResource.Cache
+c:\users\hope\documents\visual studio 2015\Projects\HW2-B10409020-宋豐价\Hw1\obj\Debug\Hw1.exe
+c:\users\hope\documents\visual studio 2015\Projects\HW2-B10409020-宋豐价\Hw1\obj\Debug\Hw1.xml
+c:\users\hope\documents\visual studio 2015\Projects\HW2-B10409020-宋豐价\Hw1\obj\Debug\Hw1.pdb
+C:\Users\Hope\OneDrive\Github\vb\HW2-B10409020-宋豐价\Hw1\bin\Debug\Hw1.exe.config
+C:\Users\Hope\OneDrive\Github\vb\HW2-B10409020-宋豐价\Hw1\obj\Debug\Hw1.exe
+C:\Users\Hope\OneDrive\Github\vb\HW2-B10409020-宋豐价\Hw1\obj\Debug\Hw1.xml
+C:\Users\Hope\OneDrive\Github\vb\HW2-B10409020-宋豐价\Hw1\obj\Debug\Hw1.pdb

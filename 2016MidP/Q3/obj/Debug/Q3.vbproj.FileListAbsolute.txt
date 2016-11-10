@@ -1,0 +1,9 @@
+C:\Users\Hope\OneDrive\Github\vb\2016MidP\Q3\bin\Debug\Q3.exe.config
+C:\Users\Hope\OneDrive\Github\vb\2016MidP\Q3\bin\Debug\Q3.exe
+C:\Users\Hope\OneDrive\Github\vb\2016MidP\Q3\bin\Debug\Q3.pdb
+C:\Users\Hope\OneDrive\Github\vb\2016MidP\Q3\bin\Debug\Q3.xml
+C:\Users\Hope\OneDrive\Github\vb\2016MidP\Q3\obj\Debug\Q3.Resources.resources
+C:\Users\Hope\OneDrive\Github\vb\2016MidP\Q3\obj\Debug\Q3.vbproj.GenerateResource.Cache
+C:\Users\Hope\OneDrive\Github\vb\2016MidP\Q3\obj\Debug\Q3.exe
+C:\Users\Hope\OneDrive\Github\vb\2016MidP\Q3\obj\Debug\Q3.xml
+C:\Users\Hope\OneDrive\Github\vb\2016MidP\Q3\obj\Debug\Q3.pdb
