@@ -1,0 +1,10 @@
+C:\Users\Hope\OneDrive\Github\vb\HW2-B10409020-宋豐价\Hw2\bin\Debug\Hw2.exe.config
+C:\Users\Hope\OneDrive\Github\vb\HW2-B10409020-宋豐价\Hw2\bin\Debug\Hw2.exe
+C:\Users\Hope\OneDrive\Github\vb\HW2-B10409020-宋豐价\Hw2\bin\Debug\Hw2.pdb
+C:\Users\Hope\OneDrive\Github\vb\HW2-B10409020-宋豐价\Hw2\bin\Debug\Hw2.xml
+C:\Users\Hope\OneDrive\Github\vb\HW2-B10409020-宋豐价\Hw2\obj\Debug\Hw2.vbprojResolveAssemblyReference.cache
+C:\Users\Hope\OneDrive\Github\vb\HW2-B10409020-宋豐价\Hw2\obj\Debug\Hw2.Resources.resources
+C:\Users\Hope\OneDrive\Github\vb\HW2-B10409020-宋豐价\Hw2\obj\Debug\Hw2.vbproj.GenerateResource.Cache
+C:\Users\Hope\OneDrive\Github\vb\HW2-B10409020-宋豐价\Hw2\obj\Debug\Hw2.exe
+C:\Users\Hope\OneDrive\Github\vb\HW2-B10409020-宋豐价\Hw2\obj\Debug\Hw2.xml
+C:\Users\Hope\OneDrive\Github\vb\HW2-B10409020-宋豐价\Hw2\obj\Debug\Hw2.pdb
