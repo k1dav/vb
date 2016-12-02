@@ -1,0 +1,11 @@
+C:\Users\Hope\OneDrive\Github\vb\ChapterExercise\Chapter7-4\bin\Debug\Chapter7-4.exe.config
+C:\Users\Hope\OneDrive\Github\vb\ChapterExercise\Chapter7-4\bin\Debug\Chapter7-4.exe
+C:\Users\Hope\OneDrive\Github\vb\ChapterExercise\Chapter7-4\bin\Debug\Chapter7-4.pdb
+C:\Users\Hope\OneDrive\Github\vb\ChapterExercise\Chapter7-4\bin\Debug\Chapter7-4.xml
+C:\Users\Hope\OneDrive\Github\vb\ChapterExercise\Chapter7-4\obj\Debug\Chapter7-4.vbprojResolveAssemblyReference.cache
+C:\Users\Hope\OneDrive\Github\vb\ChapterExercise\Chapter7-4\obj\Debug\Chapter7_4.Form1.resources
+C:\Users\Hope\OneDrive\Github\vb\ChapterExercise\Chapter7-4\obj\Debug\Chapter7_4.Resources.resources
+C:\Users\Hope\OneDrive\Github\vb\ChapterExercise\Chapter7-4\obj\Debug\Chapter7-4.vbproj.GenerateResource.Cache
+C:\Users\Hope\OneDrive\Github\vb\ChapterExercise\Chapter7-4\obj\Debug\Chapter7-4.exe
+C:\Users\Hope\OneDrive\Github\vb\ChapterExercise\Chapter7-4\obj\Debug\Chapter7-4.xml
+C:\Users\Hope\OneDrive\Github\vb\ChapterExercise\Chapter7-4\obj\Debug\Chapter7-4.pdb

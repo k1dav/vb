@@ -1,0 +1,10 @@
+C:\Users\Hope\OneDrive\Github\vb\ChapterExercise\Chapter9-1\bin\Debug\Chapter9-1.exe.config
+C:\Users\Hope\OneDrive\Github\vb\ChapterExercise\Chapter9-1\bin\Debug\Chapter9-1.exe
+C:\Users\Hope\OneDrive\Github\vb\ChapterExercise\Chapter9-1\bin\Debug\Chapter9-1.pdb
+C:\Users\Hope\OneDrive\Github\vb\ChapterExercise\Chapter9-1\bin\Debug\Chapter9-1.xml
+C:\Users\Hope\OneDrive\Github\vb\ChapterExercise\Chapter9-1\obj\Debug\Chapter9-1.vbprojResolveAssemblyReference.cache
+C:\Users\Hope\OneDrive\Github\vb\ChapterExercise\Chapter9-1\obj\Debug\Chapter9_1.Resources.resources
+C:\Users\Hope\OneDrive\Github\vb\ChapterExercise\Chapter9-1\obj\Debug\Chapter9-1.vbproj.GenerateResource.Cache
+C:\Users\Hope\OneDrive\Github\vb\ChapterExercise\Chapter9-1\obj\Debug\Chapter9-1.exe
+C:\Users\Hope\OneDrive\Github\vb\ChapterExercise\Chapter9-1\obj\Debug\Chapter9-1.xml
+C:\Users\Hope\OneDrive\Github\vb\ChapterExercise\Chapter9-1\obj\Debug\Chapter9-1.pdb
