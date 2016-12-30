@@ -1,0 +1,11 @@
+C:\Users\k1dav\Documents\GitHub\vb\ChapterExercise\Chapter1１-1\bin\Debug\Chapter1１-1.exe.config
+C:\Users\k1dav\Documents\GitHub\vb\ChapterExercise\Chapter1１-1\bin\Debug\Chapter1１-1.exe
+C:\Users\k1dav\Documents\GitHub\vb\ChapterExercise\Chapter1１-1\bin\Debug\Chapter1１-1.pdb
+C:\Users\k1dav\Documents\GitHub\vb\ChapterExercise\Chapter1１-1\bin\Debug\Chapter1１-1.xml
+C:\Users\k1dav\Documents\GitHub\vb\ChapterExercise\Chapter1１-1\obj\Debug\Chapter1１-1.vbprojResolveAssemblyReference.cache
+C:\Users\k1dav\Documents\GitHub\vb\ChapterExercise\Chapter1１-1\obj\Debug\Chapter1１_1.Form1.resources
+C:\Users\k1dav\Documents\GitHub\vb\ChapterExercise\Chapter1１-1\obj\Debug\Chapter1１_1.Resources.resources
+C:\Users\k1dav\Documents\GitHub\vb\ChapterExercise\Chapter1１-1\obj\Debug\Chapter1１-1.vbproj.GenerateResource.Cache
+C:\Users\k1dav\Documents\GitHub\vb\ChapterExercise\Chapter1１-1\obj\Debug\Chapter1１-1.exe
+C:\Users\k1dav\Documents\GitHub\vb\ChapterExercise\Chapter1１-1\obj\Debug\Chapter1１-1.xml
+C:\Users\k1dav\Documents\GitHub\vb\ChapterExercise\Chapter1１-1\obj\Debug\Chapter1１-1.pdb

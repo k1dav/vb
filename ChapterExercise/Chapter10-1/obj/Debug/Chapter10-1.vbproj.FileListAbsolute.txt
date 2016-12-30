@@ -9,3 +9,14 @@ C:\Users\Hope\OneDrive\Github\vb\ChapterExercise\Chapter10-1\obj\Debug\Chapter10
 C:\Users\Hope\OneDrive\Github\vb\ChapterExercise\Chapter10-1\obj\Debug\Chapter10-1.exe
 C:\Users\Hope\OneDrive\Github\vb\ChapterExercise\Chapter10-1\obj\Debug\Chapter10-1.xml
 C:\Users\Hope\OneDrive\Github\vb\ChapterExercise\Chapter10-1\obj\Debug\Chapter10-1.pdb
+C:\Users\k1dav\Documents\GitHub\vb\ChapterExercise\Chapter10-1\bin\Debug\Chapter10-1.exe.config
+C:\Users\k1dav\Documents\GitHub\vb\ChapterExercise\Chapter10-1\obj\Debug\Chapter10-1.exe
+C:\Users\k1dav\Documents\GitHub\vb\ChapterExercise\Chapter10-1\obj\Debug\Chapter10-1.xml
+C:\Users\k1dav\Documents\GitHub\vb\ChapterExercise\Chapter10-1\obj\Debug\Chapter10-1.pdb
+C:\Users\k1dav\Documents\GitHub\vb\ChapterExercise\Chapter10-1\bin\Debug\Chapter10-1.exe
+C:\Users\k1dav\Documents\GitHub\vb\ChapterExercise\Chapter10-1\bin\Debug\Chapter10-1.pdb
+C:\Users\k1dav\Documents\GitHub\vb\ChapterExercise\Chapter10-1\bin\Debug\Chapter10-1.xml
+C:\Users\k1dav\Documents\GitHub\vb\ChapterExercise\Chapter10-1\obj\Debug\Chapter10-1.vbprojResolveAssemblyReference.cache
+C:\Users\k1dav\Documents\GitHub\vb\ChapterExercise\Chapter10-1\obj\Debug\Chapter10_1.Form1.resources
+C:\Users\k1dav\Documents\GitHub\vb\ChapterExercise\Chapter10-1\obj\Debug\Chapter10_1.Resources.resources
+C:\Users\k1dav\Documents\GitHub\vb\ChapterExercise\Chapter10-1\obj\Debug\Chapter10-1.vbproj.GenerateResource.Cache
