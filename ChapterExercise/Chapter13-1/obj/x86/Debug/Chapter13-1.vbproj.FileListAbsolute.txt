@@ -1,0 +1,9 @@
+C:\Users\k1dav\Documents\GitHub\vb\ChapterExercise\Chapter13-1\obj\x86\Debug\StatusStripDemo.exe
+C:\Users\k1dav\Documents\GitHub\vb\ChapterExercise\Chapter13-1\obj\x86\Debug\StatusStripDemo.xml
+C:\Users\k1dav\Documents\GitHub\vb\ChapterExercise\Chapter13-1\obj\x86\Debug\StatusStripDemo.pdb
+C:\Users\k1dav\Documents\GitHub\vb\ChapterExercise\Chapter13-1\bin\Debug\StatusStripDemo.exe
+C:\Users\k1dav\Documents\GitHub\vb\ChapterExercise\Chapter13-1\bin\Debug\StatusStripDemo.pdb
+C:\Users\k1dav\Documents\GitHub\vb\ChapterExercise\Chapter13-1\bin\Debug\StatusStripDemo.xml
+C:\Users\k1dav\Documents\GitHub\vb\ChapterExercise\Chapter13-1\obj\x86\Debug\StatusStripDemo.Form1.resources
+C:\Users\k1dav\Documents\GitHub\vb\ChapterExercise\Chapter13-1\obj\x86\Debug\StatusStripDemo.Resources.resources
+C:\Users\k1dav\Documents\GitHub\vb\ChapterExercise\Chapter13-1\obj\x86\Debug\Chapter13-1.vbproj.GenerateResource.Cache

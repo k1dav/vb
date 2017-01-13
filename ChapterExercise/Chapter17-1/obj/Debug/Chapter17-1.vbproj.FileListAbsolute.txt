@@ -1,0 +1,12 @@
+C:\Users\k1dav\Documents\GitHub\vb\ChapterExercise\Chapter17-1\bin\Debug\Chapter1７－１.exe.config
+C:\Users\k1dav\Documents\GitHub\vb\ChapterExercise\Chapter17-1\bin\Debug\ch17DB.mdf
+C:\Users\k1dav\Documents\GitHub\vb\ChapterExercise\Chapter17-1\bin\Debug\ch17DB_log.ldf
+C:\Users\k1dav\Documents\GitHub\vb\ChapterExercise\Chapter17-1\bin\Debug\Chapter1７－１.exe
+C:\Users\k1dav\Documents\GitHub\vb\ChapterExercise\Chapter17-1\bin\Debug\Chapter1７－１.pdb
+C:\Users\k1dav\Documents\GitHub\vb\ChapterExercise\Chapter17-1\bin\Debug\Chapter1７－１.xml
+C:\Users\k1dav\Documents\GitHub\vb\ChapterExercise\Chapter17-1\obj\Debug\Chapter1７_１.Form1.resources
+C:\Users\k1dav\Documents\GitHub\vb\ChapterExercise\Chapter17-1\obj\Debug\Chapter1７_１.Resources.resources
+C:\Users\k1dav\Documents\GitHub\vb\ChapterExercise\Chapter17-1\obj\Debug\Chapter17-1.vbproj.GenerateResource.Cache
+C:\Users\k1dav\Documents\GitHub\vb\ChapterExercise\Chapter17-1\obj\Debug\Chapter1７－１.exe
+C:\Users\k1dav\Documents\GitHub\vb\ChapterExercise\Chapter17-1\obj\Debug\Chapter1７－１.xml
+C:\Users\k1dav\Documents\GitHub\vb\ChapterExercise\Chapter17-1\obj\Debug\Chapter1７－１.pdb

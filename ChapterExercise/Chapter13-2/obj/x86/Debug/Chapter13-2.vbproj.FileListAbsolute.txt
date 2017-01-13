@@ -1,0 +1,10 @@
+C:\Users\k1dav\Documents\GitHub\vb\ChapterExercise\Chapter13-2\obj\x86\Debug\MenuStripDemo.exe
+C:\Users\k1dav\Documents\GitHub\vb\ChapterExercise\Chapter13-2\obj\x86\Debug\MenuStripDemo.xml
+C:\Users\k1dav\Documents\GitHub\vb\ChapterExercise\Chapter13-2\obj\x86\Debug\MenuStripDemo.pdb
+C:\Users\k1dav\Documents\GitHub\vb\ChapterExercise\Chapter13-2\bin\Debug\MenuStripDemo.exe
+C:\Users\k1dav\Documents\GitHub\vb\ChapterExercise\Chapter13-2\bin\Debug\MenuStripDemo.pdb
+C:\Users\k1dav\Documents\GitHub\vb\ChapterExercise\Chapter13-2\bin\Debug\MenuStripDemo.xml
+C:\Users\k1dav\Documents\GitHub\vb\ChapterExercise\Chapter13-2\obj\x86\Debug\Chapter13-2.vbprojResolveAssemblyReference.cache
+C:\Users\k1dav\Documents\GitHub\vb\ChapterExercise\Chapter13-2\obj\x86\Debug\MenuStripDemo.Form1.resources
+C:\Users\k1dav\Documents\GitHub\vb\ChapterExercise\Chapter13-2\obj\x86\Debug\MenuStripDemo.Resources.resources
+C:\Users\k1dav\Documents\GitHub\vb\ChapterExercise\Chapter13-2\obj\x86\Debug\Chapter13-2.vbproj.GenerateResource.Cache

@@ -1,0 +1,11 @@
+C:\Users\k1dav\Documents\GitHub\vb\ChapterExercise\Chapter13-3\bin\Debug\Chapter13-3.exe.config
+C:\Users\k1dav\Documents\GitHub\vb\ChapterExercise\Chapter13-3\bin\Debug\Chapter13-3.exe
+C:\Users\k1dav\Documents\GitHub\vb\ChapterExercise\Chapter13-3\bin\Debug\Chapter13-3.pdb
+C:\Users\k1dav\Documents\GitHub\vb\ChapterExercise\Chapter13-3\bin\Debug\Chapter13-3.xml
+C:\Users\k1dav\Documents\GitHub\vb\ChapterExercise\Chapter13-3\obj\Debug\Chapter13-3.vbprojResolveAssemblyReference.cache
+C:\Users\k1dav\Documents\GitHub\vb\ChapterExercise\Chapter13-3\obj\Debug\Chapter13_3.Form1.resources
+C:\Users\k1dav\Documents\GitHub\vb\ChapterExercise\Chapter13-3\obj\Debug\Chapter13_3.Resources.resources
+C:\Users\k1dav\Documents\GitHub\vb\ChapterExercise\Chapter13-3\obj\Debug\Chapter13-3.vbproj.GenerateResource.Cache
+C:\Users\k1dav\Documents\GitHub\vb\ChapterExercise\Chapter13-3\obj\Debug\Chapter13-3.exe
+C:\Users\k1dav\Documents\GitHub\vb\ChapterExercise\Chapter13-3\obj\Debug\Chapter13-3.xml
+C:\Users\k1dav\Documents\GitHub\vb\ChapterExercise\Chapter13-3\obj\Debug\Chapter13-3.pdb

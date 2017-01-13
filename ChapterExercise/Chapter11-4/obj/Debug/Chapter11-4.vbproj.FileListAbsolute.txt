@@ -1,1 +1,10 @@
 C:\Users\k1dav\Documents\GitHub\vb\ChapterExercise\Chapter11-4\bin\Debug\Chapter11-4.exe.config
+C:\Users\k1dav\Documents\GitHub\vb\ChapterExercise\Chapter11-4\bin\Debug\Chapter11-4.exe
+C:\Users\k1dav\Documents\GitHub\vb\ChapterExercise\Chapter11-4\bin\Debug\Chapter11-4.pdb
+C:\Users\k1dav\Documents\GitHub\vb\ChapterExercise\Chapter11-4\bin\Debug\Chapter11-4.xml
+C:\Users\k1dav\Documents\GitHub\vb\ChapterExercise\Chapter11-4\obj\Debug\Chapter11_4.Form1.resources
+C:\Users\k1dav\Documents\GitHub\vb\ChapterExercise\Chapter11-4\obj\Debug\Chapter11_4.Resources.resources
+C:\Users\k1dav\Documents\GitHub\vb\ChapterExercise\Chapter11-4\obj\Debug\Chapter11-4.vbproj.GenerateResource.Cache
+C:\Users\k1dav\Documents\GitHub\vb\ChapterExercise\Chapter11-4\obj\Debug\Chapter11-4.exe
+C:\Users\k1dav\Documents\GitHub\vb\ChapterExercise\Chapter11-4\obj\Debug\Chapter11-4.xml
+C:\Users\k1dav\Documents\GitHub\vb\ChapterExercise\Chapter11-4\obj\Debug\Chapter11-4.pdb

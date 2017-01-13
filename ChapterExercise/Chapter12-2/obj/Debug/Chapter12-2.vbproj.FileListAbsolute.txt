@@ -1,0 +1,10 @@
+C:\Users\k1dav\Documents\GitHub\vb\ChapterExercise\Chapter12-2\bin\Debug\Chapter12-2.exe.config
+C:\Users\k1dav\Documents\GitHub\vb\ChapterExercise\Chapter12-2\bin\Debug\Chapter12-2.exe
+C:\Users\k1dav\Documents\GitHub\vb\ChapterExercise\Chapter12-2\bin\Debug\Chapter12-2.pdb
+C:\Users\k1dav\Documents\GitHub\vb\ChapterExercise\Chapter12-2\bin\Debug\Chapter12-2.xml
+C:\Users\k1dav\Documents\GitHub\vb\ChapterExercise\Chapter12-2\obj\Debug\Chapter12_2.Form1.resources
+C:\Users\k1dav\Documents\GitHub\vb\ChapterExercise\Chapter12-2\obj\Debug\Chapter12_2.Resources.resources
+C:\Users\k1dav\Documents\GitHub\vb\ChapterExercise\Chapter12-2\obj\Debug\Chapter12-2.vbproj.GenerateResource.Cache
+C:\Users\k1dav\Documents\GitHub\vb\ChapterExercise\Chapter12-2\obj\Debug\Chapter12-2.exe
+C:\Users\k1dav\Documents\GitHub\vb\ChapterExercise\Chapter12-2\obj\Debug\Chapter12-2.xml
+C:\Users\k1dav\Documents\GitHub\vb\ChapterExercise\Chapter12-2\obj\Debug\Chapter12-2.pdb

@@ -1,0 +1,11 @@
+C:\Users\k1dav\Documents\GitHub\vb\ChapterExercise\Chapter15-3\obj\x86\Debug\OpenSaveFileDailogDemo.exe
+C:\Users\k1dav\Documents\GitHub\vb\ChapterExercise\Chapter15-3\obj\x86\Debug\OpenSaveFileDailogDemo.xml
+C:\Users\k1dav\Documents\GitHub\vb\ChapterExercise\Chapter15-3\obj\x86\Debug\OpenSaveFileDailogDemo.pdb
+C:\Users\k1dav\Documents\GitHub\vb\ChapterExercise\Chapter15-3\bin\Debug\OpenSaveFileDailogDemo.exe
+C:\Users\k1dav\Documents\GitHub\vb\ChapterExercise\Chapter15-3\bin\Debug\OpenSaveFileDailogDemo.pdb
+C:\Users\k1dav\Documents\GitHub\vb\ChapterExercise\Chapter15-3\bin\Debug\OpenSaveFileDailogDemo.xml
+C:\Users\k1dav\Documents\GitHub\vb\ChapterExercise\Chapter15-3\obj\x86\Debug\Chapter15-3.vbprojResolveAssemblyReference.cache
+C:\Users\k1dav\Documents\GitHub\vb\ChapterExercise\Chapter15-3\obj\x86\Debug\OpenSaveFileDailogDemo.Form1.resources
+C:\Users\k1dav\Documents\GitHub\vb\ChapterExercise\Chapter15-3\obj\x86\Debug\OpenSaveFileDailogDemo.Form2.resources
+C:\Users\k1dav\Documents\GitHub\vb\ChapterExercise\Chapter15-3\obj\x86\Debug\OpenSaveFileDailogDemo.Resources.resources
+C:\Users\k1dav\Documents\GitHub\vb\ChapterExercise\Chapter15-3\obj\x86\Debug\Chapter15-3.vbproj.GenerateResource.Cache
